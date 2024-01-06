@@ -1,7 +1,8 @@
 # Where is comments :?????
+# Nothing happens?
 def square_power(a, b):
     '''
-    It has been a while since we comment properly
+    That has been a while since we comment properly
     We should try to do that for each definition :)
     I Agree
     '''

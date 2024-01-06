@@ -1,3 +1,4 @@
+# Where is comments :?????
 def square_power(a, b):
     result = (a ** 2 + b ** 2) ** 0.5
     return result

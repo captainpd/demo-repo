@@ -1,5 +1,5 @@
 # Where is comments :?????
-def square_power(a, b):
+def square_pow(a, b):
     '''
     It has been a while since we comment properly
     We should try to do that for each definition :)

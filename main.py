@@ -1,7 +1,8 @@
 def square_power(a, b):
     '''
     It has been a while since we comment properly
-    We should try to do that for each definition ;)
+    We should try to do that for each definition :)
+    I Agree
     '''
     result = (a ** 2 + b ** 2) ** 0.5
     return result

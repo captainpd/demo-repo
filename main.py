@@ -13,5 +13,5 @@ def square_pow(a, b):
 
 if __name__ == "__main__":
     # Add comment here
-    c = square_power(1, 3)
+    c = square_pow(1, 3)
     print(c)

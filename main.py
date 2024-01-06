@@ -9,5 +9,7 @@ def square_power(a, b):
 
 
 if __name__ == "__main__":
-    c = square_power(1, 2)
+    # Add comment here
+    c = square_power(1, 3)
     print(c)
+
